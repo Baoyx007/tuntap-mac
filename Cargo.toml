@@ -1,13 +1,13 @@
 [package]
-name = "tun-tap"
+name = "tun-tap-mac"
 # Also don't forget to update the version in the html_root_url attribute in src/lib.rs
 version = "0.1.2"
-authors = ["Michal 'vorner' Vaner <vorner@vorner.cz>"]
+authors = ["Michal 'vorner' Vaner <vorner@vorner.cz>","Haven Bao <baoyx007@gmail.com>"]
 description = "TUN/TAP interface wrapper"
 documentation = "https://docs.rs/tun-tap"
-repository = "https://github.com/vorner/tuntap"
+repository = "https://github.com/Baoyx007/tuntap-mac.git"
 readme = "README.md"
-keywords = ["tun", "tap", "network"]
+keywords = ["tun", "tap", "network","mac"]
 categories = ["network-programming"]
 license = "Apache-2.0/MIT"
 

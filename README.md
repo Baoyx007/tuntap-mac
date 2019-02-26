@@ -1,5 +1,7 @@
 # TunTap
 
+forked for mac
+
 [![Travis Build Status](https://api.travis-ci.org/vorner/tuntap.png?branch=master)](https://travis-ci.org/vorner/tuntap)
 
 TUN/TAP wrapper for Rust.
@@ -15,17 +17,17 @@ There's [documentation](https://docs.rs/tun-tap) and some
 
 ## Known issues
 
-* Tested only on Linux. Probably doesn't work anywhere else, but pull requests
+- Tested only on Linux. Probably doesn't work anywhere else, but pull requests
   adding support for other OSes are welcome.
-* The asynchronous interface is very minimal and probably inefficient. It'll
+- The asynchronous interface is very minimal and probably inefficient. It'll
   need to be extended to allow more flexible or efficient use.
 
 ## License
 
 Licensed under either of
 
- * Apache License, Version 2.0, ([LICENSE-APACHE](LICENSE-APACHE) or http://www.apache.org/licenses/LICENSE-2.0)
- * MIT license ([LICENSE-MIT](LICENSE-MIT) or http://opensource.org/licenses/MIT)
+- Apache License, Version 2.0, ([LICENSE-APACHE](LICENSE-APACHE) or http://www.apache.org/licenses/LICENSE-2.0)
+- MIT license ([LICENSE-MIT](LICENSE-MIT) or http://opensource.org/licenses/MIT)
 
 at your option.
 
